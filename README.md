@@ -1,7 +1,6 @@
-# kaggle_criteo_ctr_challenge-
-This is a kaggle challenge project called Display Advertising Challenge by CriteoLabs at 2014.
-这是2014年由CriteoLabs在kaggle上发起的广告点击率预估挑战项目。
-使用TensorFlow1.0和Python 3.5开发。
+# kaggle criteo ctr challenge
+
+这是2014年由CriteoLabs在kaggle上发起的广告点击率预估挑战项目。使用TensorFlow1.0和Python 3.5开发。
 
 代码详解请参见[jupyter notebook](https://nbviewer.jupyter.org/github/classtag/kaggle_criteo_ctr_challenge/blob/master/ctr.ipynb)
 
